@@ -7,6 +7,6 @@ trace d'un drapeau américain
 
 
 jeu du pendu  :
-  scorelib.py \n
-  pendu 3.1.py \n
-  dico.txt \n
+  scorelib.py 
+  pendu 3.1.py 
+  dico.txt 
